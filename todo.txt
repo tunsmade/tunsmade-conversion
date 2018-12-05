@@ -2,3 +2,4 @@ Conversion functions needed:
 - rands to cents
 - hours to minutes
 - kg to pounds
+- celcius kelvin
